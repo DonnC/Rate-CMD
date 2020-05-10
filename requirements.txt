@@ -1,0 +1,6 @@
+clint
+PyInquirer
+clint
+requests
+pyfiglet
+beautifulsoup4
